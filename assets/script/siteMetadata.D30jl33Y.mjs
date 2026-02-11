@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.CpHuHz_T.mjs";function t(e,t){return{description:`Why pay for DistroKid, Amuse or UnitedMasters? Get your music on Spotify, Apple Music, and TikTok for free. Keep 100% of your rights and join a community with 900,000+ total streams. Start releasing today!`,favicon:`https://framerusercontent.com/assets/rifipBMM9dfKZLNdM1t662DyZc.jpg`,robots:`max-image-preview:large`,title:`Free Music Distribution | Better than Paid Alternatives | enarumusic`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=siteMetadata.D30jl33Y.mjs.map
